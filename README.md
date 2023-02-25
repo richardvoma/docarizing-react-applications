@@ -1,1 +1,1 @@
-# docarizing-react-applications
+# dockerizing-react-applications
